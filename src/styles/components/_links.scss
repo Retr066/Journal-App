@@ -1,0 +1,10 @@
+.link {
+    text-decoration: none;
+    text-align: center;
+    color: $dark-grey;
+    display: flex;
+    justify-content: center;
+    &:hover {
+        text-decoration: underline;
+    }
+}
